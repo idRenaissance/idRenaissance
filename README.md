@@ -1,7 +1,7 @@
-Knowledge is Free
-I Do Not Forgive
-I Do Not Forget
-Expect me
+Knowledge is Free,
+I Do Not Forgive,
+I Do Not Forget,
+Expect me!
 
 <!---
 idRenaissance/idRenaissance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
